@@ -15,6 +15,7 @@ reviews:
   suggested_labels: true
   suggested_reviewers: true
   poem: true
+  base_branches: [help-center-task-2]
   
   
   # Path filters and instructions
