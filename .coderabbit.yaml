@@ -15,7 +15,7 @@ reviews:
   suggested_labels: true
   suggested_reviewers: true
   poem: true
-  base_brances: help-center-task-2
+  base_branches: [help-center-task-2]
   
   # Path filters and instructions
   path_filters: []  # Add glob patterns to include/exclude files
